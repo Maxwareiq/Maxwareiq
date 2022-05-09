@@ -1,4 +1,4 @@
-- 👋 Hi, We're Maxware System Solution Company.
+- 👋 Hi, I'm Maxware System Solution Company.
 - 👀 We're interested in building software systems.
 - 🌱 We're base in iraq-Baghdad.
 - 📫 Our email is info@maxwareiq 
